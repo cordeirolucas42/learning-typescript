@@ -1,0 +1,24 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordeirolucas42/learning-typescript.git"
+  },
+  "author": "Lucas Cordeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cordeirolucas42/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/cordeirolucas42/learning-typescript#readme",
+  "dependencies": {
+    "@types/node": "^16.4.12",
+    "query-string": "^7.0.1",
+    "typescript": "^4.3.5"
+  }
+}
